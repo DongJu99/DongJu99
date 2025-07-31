@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: <your_email@example.com>  ← (이메일 넣고 수정해 주세요!)
+- 📧 Email: <lmddong1118@naver.com>  ← (이메일 넣고 수정해 주세요!)
 - 🗂️ Notion: [공부 기록 보러가기](https://www.notion.so) ← (URL 있으면 수정하세요)
 
 ---
