@@ -60,7 +60,7 @@
 ## 📊 Skill Visualization
 
 <p align="center">
-  <img src="https://chat.openai.com/mnt/data/dongju_skill_chart.png" alt="Skill Chart" width="700"/>
+  <img src="https://github.com/DongJu99/DongJu99/blob/main/dongju_skill_chart.png?raw=true" alt="Skill Chart" width="700"/>
 </p>
 
 ---
