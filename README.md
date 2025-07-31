@@ -50,8 +50,6 @@
 
 ### 🛠️ DB & Dev Tools  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
