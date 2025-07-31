@@ -1,7 +1,8 @@
 <h2 align="center">🔐 안녕하세요! 보안 솔루션 엔지니어를 꿈꾸는 임동주입니다.</h2>
 
 <p align="center">
-  네트워크와 리눅스 기반 인프라를 공부하며, 고객과의 소통을 통해 신뢰를 전달하는 보안 전문가가 되고자 합니다.
+  네트워크와 리눅스 기반 인프라를 공부하며,<br/>
+  고객과의 소통을 통해 신뢰를 전달하는 보안 전문가가 되고자 합니다.
 </p>
 
 ---
@@ -10,8 +11,8 @@
 
 - 👨‍💻 **보안 솔루션 분야**에 관심이 많습니다.
 - 🧠 시스템/네트워크 기반 환경 구성 및 문제 해결 실습 경험 보유
-- 🧾 꾸준한 자격증 취득과 Notion 기반 정리를 통해 실무 역량을 강화 중입니다.
-- 🎯 **기술력과 소통력**을 겸비한, 고객 중심 보안 인재로 성장하는 것이 목표입니다.
+- 📚 자격증 취득과 Notion 기반 정리를 통해 실무 역량을 강화 중입니다.
+- 🎯 기술력과 소통력을 겸비한, **신뢰받는 보안 전문가**가 되는 것이 목표입니다.
 
 ---
 
@@ -56,6 +57,14 @@
 
 ---
 
+## 📊 Skill Visualization
+
+<p align="center">
+  <img src="https://chat.openai.com/mnt/data/dongju_skill_chart.png" alt="Skill Chart" width="700"/>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -68,8 +77,8 @@
 
 ## 📫 Contact
 
-- ✉️ **Email**: your_email@example.com ← 이메일 알려주시면 수정해 드릴게요!
-- 🗂️ **Notion 포트폴리오**: [보안 학습 정리](https://www.notion.so) ← 링크 알려주시면 반영해드려요!
+- ✉️ **Email**: your_email@example.com ← 이메일 입력하시면 수정해 드릴게요!
+- 🗂️ **Notion 포트폴리오**: [보안 학습 정리](https://www.notion.so) ← 링크 주시면 반영해드릴게요!
 
 ---
 
